@@ -12,11 +12,8 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-
 import com.centene.hackathon.application.model.Dependent;
 import com.centene.hackathon.application.service.DependentService;
-import com.centene.hackathon.application.service.EnrolleeService;
-
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiParam;
 
